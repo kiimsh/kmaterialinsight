@@ -1,0 +1,8 @@
+{
+  "name": "K-Material Insight",
+  "description": "Defense parts supply response and Export License (EL) management system for LS business division.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
